@@ -16,6 +16,6 @@ class ComplementaryWhitelist @Inject constructor(val logger: Logger) {
     @Subscribe
     fun onProxyInitialization(event: ProxyInitializeEvent) {
 
-
+    // test change
     }
 }
